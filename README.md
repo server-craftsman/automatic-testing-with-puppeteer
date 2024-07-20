@@ -13,7 +13,7 @@ Automated testing using Puppeteer. Tests cover cases with missing and complete i
 1. Clone the repository:
 
     ```
-    git clone 
+    git clone https://github.com/server-craftsman/automatic-testing-with-puppeteer.git
 
     ```
 
