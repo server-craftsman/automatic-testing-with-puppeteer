@@ -1,0 +1,83 @@
+Test failed
+Start time: 2024-07-19T10:45:34.970Z
+End time: 2024-07-19T10:45:53.780Z
+Error: Navigating frame was detached
+
+Test successfully
+Start time: 2024-07-19T10:45:55.911Z
+End time: 2024-07-19T10:46:02.791Z
+
+Test failed
+Start time: 2024-07-19T10:51:00.437Z
+End time: 2024-07-19T10:51:05.950Z
+Error: click is not defined
+
+Test failed
+Start time: 2024-07-19T10:51:54.945Z
+End time: 2024-07-19T10:51:57.605Z
+Error: Protocol error (Input.dispatchKeyEvent): Target closed
+
+Test failed
+Start time: 2024-07-19T10:52:04.639Z
+End time: 2024-07-19T10:52:09.681Z
+Error: click is not defined
+
+Test failed
+Start time: 2024-07-19T10:53:50.140Z
+End time: 2024-07-19T10:53:54.990Z
+Error: click is not defined
+
+Test failed
+Start time: 2024-07-19T10:54:09.557Z
+End time: 2024-07-19T10:54:14.447Z
+Error: No element found for selector: div[data-hveid='CBIQAA'] div[class='YmvwI']
+
+Test successfully
+Start time: 2024-07-19T10:55:02.270Z
+End time: 2024-07-19T10:55:07.270Z
+
+Test failed
+Start time: 2024-07-19T10:56:56.211Z
+End time: 2024-07-19T10:57:01.338Z
+Error: No element found for selector: #rso > div:nth-child(1) > div > div > div > div > div > div:nth-child(1) > div.xe8e1b > div > div > span > a > h3
+
+Test failed
+Start time: 2024-07-19T10:57:45.209Z
+End time: 2024-07-19T10:57:50.204Z
+Error: No element found for selector: #rso > div:nth-child(1) > div > div > div > div > div > div:nth-child(1) > div.xe8e1b > div > div > span > a > h3
+
+Test failed
+Start time: 2024-07-19T10:59:01.152Z
+End time: 2024-07-19T10:59:06.300Z
+Error: No element found for selector: body > div:nth-child(10) > div:nth-child(1) > div:nth-child(18) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)
+
+Test failed
+Start time: 2024-07-19T10:59:46.164Z
+End time: 2024-07-19T10:59:51.167Z
+Error: delay is not defined
+
+Test failed
+Start time: 2024-07-19T11:00:53.175Z
+End time: 2024-07-19T11:00:58.225Z
+Error: delay is not defined
+
+Test successfully
+Start time: 2024-07-19T11:01:48.419Z
+End time: 2024-07-19T11:01:57.035Z
+
+Test successfully
+Start time: 2024-07-19T11:02:04.174Z
+End time: 2024-07-19T11:02:10.909Z
+
+Test successfully
+Start time: 2024-07-20T16:45:25.857Z
+End time: 2024-07-20T16:45:30.527Z
+
+Test successfully
+Start time: 2024-07-20T16:50:00.181Z
+End time: 2024-07-20T16:50:06.007Z
+
+Test successfully
+Start time: 2024-07-20T17:14:22.645Z
+End time: 2024-07-20T17:14:27.987Z
+

@@ -1,0 +1,93 @@
+
+Begin Testing
+Test Case 1: Login successful
+ started at 2024-07-19T09:59:57.246Z, ended at 2024-07-19T10:00:03.238Z
+Test Case 2: Login failed
+ started at 2024-07-19T09:59:57.246Z, ended at 2024-07-19T10:00:08.369Z
+error: Epic sadface: Username and password do not match any user in this service
+Test Case 3: Login failed
+ started at 2024-07-19T09:59:57.246Z, ended at 2024-07-19T10:00:13.433Z
+error: Epic sadface: Password is required
+Test Add to Cart
+Fill checkout form
+Test Case 4: 
+error: Error: First Name is required
+Test Case 5: 
+error: Error: Postal Code is required
+Test Case 6: fill checkout form successAdd To Cart Error:: ended at 2024-07-19T10:00:38.955Z, error: click is not defined
+
+End Testing
+
+Begin Testing
+Test Case 1: Login successful
+ started at 2024-07-19T10:31:51.416Z, ended at 2024-07-19T10:31:57.611Z
+Test Case 2: Login failed
+ started at 2024-07-19T10:31:51.416Z, ended at 2024-07-19T10:32:02.682Z
+error: Epic sadface: Username and password do not match any user in this service
+Test Case 3: Login failed
+ started at 2024-07-19T10:31:51.416Z, ended at 2024-07-19T10:32:07.754Z
+error: Epic sadface: Password is required
+Test Add to Cart
+Fill checkout form
+Test Case 4: 
+error: Error: First Name is required
+Test Case 5: 
+error: Error: Postal Code is required
+Test Case 6: fill checkout form successAdd To Cart Error:: ended at 2024-07-19T10:32:33.204Z, error: click is not defined
+
+End Testing
+
+Begin Testing
+Test Case 1: Login successful
+ started at 2024-07-20T16:47:09.655Z, ended at 2024-07-20T16:47:15.828Z
+Test Case 2: Login failed
+ started at 2024-07-20T16:47:09.655Z, ended at 2024-07-20T16:47:20.835Z
+error: Epic sadface: Username is required
+Test Case 3: Login failed
+ started at 2024-07-20T16:47:09.655Z, ended at 2024-07-20T16:47:25.835Z
+error: Epic sadface: Password is required
+Test Add to Cart
+Add To Cart Error:: ended at 2024-07-20T16:47:34.778Z, error: No element found for selector: #remove-sauce-labs-bolt-t-shirt
+
+End Testing
+
+Begin Testing
+Test Case 1: Login successful
+ started at 2024-07-20T16:47:53.577Z, ended at 2024-07-20T16:47:59.786Z
+Test Add to Cart
+Add To Cart Error:: ended at 2024-07-20T16:48:18.684Z, error: No element found for selector: #remove-sauce-labs-bolt-t-shirt
+
+End Testing
+
+Begin Testing
+Test Case 1: Login successful
+ started at 2024-07-20T16:51:11.468Z, ended at 2024-07-20T16:51:17.622Z
+Test Case 2: Login failed
+ started at 2024-07-20T16:51:11.468Z, ended at 2024-07-20T16:51:22.648Z
+error: Epic sadface: Username is required
+Test Case 3: Login failed
+ started at 2024-07-20T16:51:11.468Z, ended at 2024-07-20T16:51:27.672Z
+error: Epic sadface: Password is required
+Test Add to Cart
+Add To Cart Error:: ended at 2024-07-20T16:51:36.603Z, error: No element found for selector: #remove-sauce-labs-bolt-t-shirt
+
+End Testing
+
+Begin Testing
+Test Case 1: Login successful
+ started at 2024-07-20T17:11:19.281Z, ended at 2024-07-20T17:11:25.964Z
+Test Case 2: Login failed
+ started at 2024-07-20T17:11:19.281Z, ended at 2024-07-20T17:11:31.011Z
+error: Epic sadface: Username and password do not match any user in this service
+Test Case 3: Login failed
+ started at 2024-07-20T17:11:19.281Z, ended at 2024-07-20T17:11:36.033Z
+error: Epic sadface: Password is required
+Test Add to Cart
+Fill checkout form
+Test Case 4: 
+error: Error: First Name is required
+Test Case 5: 
+error: Error: Postal Code is required
+Test Case 6: fill checkout form successAdd To Cart Error:: ended at 2024-07-20T17:12:00.972Z, error: click is not defined
+
+End Testing
